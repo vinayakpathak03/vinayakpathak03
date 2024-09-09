@@ -1,3 +1,7 @@
+![Header](./C:\Users\HP\Downloads\github-header-image (5).png)
+
+
+
 <h1 align="center">Hi 👋, I'm Vinayak Pathak</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
