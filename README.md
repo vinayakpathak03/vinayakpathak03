@@ -1,6 +1,10 @@
-<div align="center">
-  <img src="https://drive.google.com/file/d/1480WBldlU_xAB1hJOPcMOZZ6DbTg91j1/view?usp=sharing" alt="Banner">
-</div>
+
+![Banner](https://drive.google.com/uc?export=view&id=1480WBldlU_xAB1hJOPcMOZZ6DbTg91j1)
+
+
+
+
+
 
 <h1 align="center">Hi 👋, I'm Vinayak Pathak</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
