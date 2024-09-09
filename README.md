@@ -1,6 +1,6 @@
-![Header](./C:\Users\HP\Downloads\github-header-image (5).png)
-
-
+<div align="center">
+  <img src="https://drive.google.com/uc?id=1yBIMMo6TAW2T_X1WPQcFmM6tnv65jFWN" alt="Banner">
+</div>
 
 <h1 align="center">Hi 👋, I'm Vinayak Pathak</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
