@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://drive.google.com/uc?id=1yBIMMo6TAW2T_X1WPQcFmM6tnv65jFWN" alt="Banner">
+  <img src="https://drive.google.com/file/d/1mN6yR_WeuXiVTXZzNPLJGbKXD3Pxaq0d/view?usp=sharing" alt="Banner">
 </div>
 
 <h1 align="center">Hi 👋, I'm Vinayak Pathak</h1>
