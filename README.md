@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Frontend Development**
 
-- 📫 How to reach me **vinayakpathak393@gmail.com**
+- 📫 Reach me out on **vinayakpathak393@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1JoI0l-bA-5ITkr6hDE2SIokr77UnbNM6/view?usp=sharing](https://drive.google.com/file/d/1JoI0l-bA-5ITkr6hDE2SIokr77UnbNM6/view?usp=sharing)
 
