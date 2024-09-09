@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://drive.google.com/file/d/1mN6yR_WeuXiVTXZzNPLJGbKXD3Pxaq0d/view?usp=sharing" alt="Banner">
+  <img src="https://www.figma.com/design/lqi5gqEez1L8iGWWlc4XkB/Untitled?node-id=1-50&m=dev&t=4OCzRb36Viykc5rS-1" alt="Banner">
 </div>
 
 <h1 align="center">Hi 👋, I'm Vinayak Pathak</h1>
