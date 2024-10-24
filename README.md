@@ -24,7 +24,7 @@
 
 - 📫 Reach me out on **vinayakpathak393@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JoI0l-bA-5ITkr6hDE2SIokr77UnbNM6/view?usp=sharing](https://drive.google.com/file/d/1JoI0l-bA-5ITkr6hDE2SIokr77UnbNM6/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1JoI0l-bA-5ITkr6hDE2SIokr77UnbNM6/view?usp=sharin](https://drive.google.com/file/d/1-gtBigmu6g3bkkut7nkbJA7uvg9t8_Wf/view?usp=sharing)g]([https://drive.google.com/file/d/1JoI0l-bA-5ITkr6hDE2SIokr77UnbNM6/view?usp=sharing](https://drive.google.com/file/d/1-gtBigmu6g3bkkut7nkbJA7uvg9t8_Wf/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
